@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<carros>
+	<codigo>
+	<codigo >1013</codigo>
+	<codigo >1015</codigo>
+	<codigo >1014</codigo>
+	<codigo >1016</codigo>
+	<codigo >1017</codigo>
+	</codigo>>
+
+	<Alumnos>
+	<alumno >Julio</alumno>
+	<alumno >Pedro</alumno>
+	<alumno >Carlos</alumno>
+	<alumno >Alejandro</alumno>
+	<alumno >Alfredo</alumno>
+	</Alumnos>
+
+	<Promedio>
+	<promedio>81</promedio>
+	<promedio>66</promedio>
+	<promedio>62</promedio>
+	<promedio>90</promedio>
+	<promedio>79</promedio>>
+	</Promedio>>
+</carros>
+
